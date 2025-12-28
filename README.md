@@ -1,54 +1,65 @@
-# Hi there, I'm Martin (Parks) 👋
+<div align="center">
+  <!-- 
+     IMPORTANTE: Reemplaza "maya-banner.jpg" con el nombre exacto de la foto que subiste.
+     El link sigue el formato: https://github.com/usuario/repo/blob/main/imagen?raw=true
+  -->
+  <img src="https://github.com/parkster127/parkster127/blob/main/maya-banner.jpg?raw=true" alt="Maya the Doberman" width="100%" style="border-radius: 10px; object-fit: cover; height: 350px;">
+  
+  <br/>
+  <br/>
 
-### 👨‍💻 Software Engineer | Full Stack & Fintech Enthusiast
-Based in **Mazatlán, Sinaloa, MX** 🏖️
-
-I'm a software engineer with 2+ years of experience building scalable web applications. My background spans from **Fintech** (creating solutions for neobanks like Yopaki) to **Enterprise Management Systems**. I specialize in modern stacks and clean architecture.
+  <h1 align="center">MARTIN (PARKS)</h1>
+  
+  <h3>Software Engineer. Mazatlán, MX.</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:tu-email@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### // CURRENT STATUS
+> **Building digital products that work.**  
+> Full-stack engineer focused on scalability and clean architecture. Previously engineered fintech solutions at **Yopaki**; currently modernizing legacy systems and building specialized CMS tools.
 
-My daily drivers for building robust applications:
+*   **Focus:** Migrating PHP Monoliths → Next.js Microservices (tRPC/Node).
+*   **Side Quest:** Developing *Hello Sushi*, a high-performance restaurant CMS.
+*   **Security Chief:** Maya (Doberman) 🐕 prevents unauthorized commits.
+
+---
+
+### // ARSENAL
+*My daily drivers for shipping production code.*
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,supabase,docker,tailwind,git,vercel,php,python&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,supabase,docker,tailwind,git,vercel,php,python&perline=6&theme=dark" />
   </a>
 </div>
 
 <div align="center">
   <br />
-  <!-- Badges especiales para herramientas específicas como Retool -->
-  <img src="https://img.shields.io/badge/Retool-3D3D3D?style=for-the-badge&logo=retool&logoColor=white" alt="Retool" />
-  <img src="https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/RETOOL-3D3D3D?style=for-the-badge&logo=retool&logoColor=white" alt="Retool" />
+  <img src="https://img.shields.io/badge/STRIPE-5469d4?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ---
 
-### 🚀 Experience Highlights
-
-*   **Fintech Development:** Engineered backend services and internal tools for **Yopaki**, ensuring secure and efficient financial operations.
-*   **SaaS Architecture:** Building multi-tenant platforms (like *Hello Sushi*) with **Next.js 14**, **tRPC**, and **PostgreSQL**.
-*   **Legacy Modernization:** Experience migrating and integrating legacy PHP systems with modern Node.js microservices.
-
----
-
-### 📊 GitHub Stats
-
+### // DATA
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkster127&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Martin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parkster127&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="Martin's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkster127&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkster127&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <br />
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <br/>
+  <small>777 • Mazatlán</small>
 </div>
