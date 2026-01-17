@@ -1,111 +1,98 @@
 <div align="center">
 
-<!-- Banner Mazatlán - Las Tres Islas -->
-<img src="./assets/banners/Whisk_64d6ecec4d4289db22d456252b7e4300dr.jpeg" alt="Mazatlán Sunset" width="100%" style="border-radius: 10px;"/>
+<!-- Header con imagen de fondo y texto superpuesto -->
+<table>
+<tr>
+<td>
+<img src="./assets/banners/Whisk_64d6ecec4d4289db22d456252b7e4300dr.jpeg" alt="Mazatlán Sunset" width="900"/>
+</td>
+</tr>
+</table>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=MARTIN+PARKS;Full-Stack+Engineer+%7C+System+Architect;Scalable+Solutions+%7C+Best+Practices;From+Mazatl%C3%A1n+to+the+World)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=MARTIN+PARKS;Full-Stack+Engineer+%7C+System+Architect;Building+Scalable+Solutions+from+Mazatl%C3%A1n+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://www.linkedin.com/in/parkster127" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:martin_herrera5@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/parkster127">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=parkster127&style=for-the-badge&color=FF6B35" alt="Profile Views"/>
-</p>
+<a href="https://www.linkedin.com/in/parkster127" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:martin_herrera5@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/parkster127">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=parkster127&style=for-the-badge&color=FF6B35" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-```typescript
-const martin: Engineer = {
-  location: "Mazatlán, Sinaloa, MX 🇲🇽",
-  role: "Full-Stack Engineer & System Architect",
-  experience: "5+ years building production systems",
+**Software Engineer** specializing in **scalable architectures** and **production-grade systems**. I design and build solutions that handle real traffic, real users, and real money.
 
-  expertise: [
-    "Scalable System Design",
-    "Database Architecture",
-    "Microservices & Event-Driven Systems",
-    "Legacy Modernization",
-    "Payment Gateway Integrations",
-  ],
+With experience optimizing fintech backends at **Yopaki** and architecting multi-tenant platforms, I focus on:
 
-  philosophy:
-    "Code is not about making things work—it's about making them work PERFECTLY",
-  currentFocus: "Transforming Mexican businesses with modern tech",
-};
-```
+- **System Design** — Microservices, event-driven architectures, multi-tenancy
+- **Database Engineering** — Schema design, query optimization, data modeling
+- **Scalability** — Horizontal scaling, caching strategies, async processing
+- **Best Practices** — Clean code, testing, documentation, CI/CD
 
-> **Senior-level problem solver** specializing in **system architecture** and **scalable solutions**. From optimizing fintech backends at **Yopaki** to building multi-tenant restaurant platforms. I design systems that handle real traffic and real money.
+> _"Code is not about making things work—it's about making them work at scale."_
+
+**Location:** Mazatlán, Sinaloa, México
 
 ---
 
-## 🏗️ System Design & Architecture
-
-<div align="center">
-
-_What separates a developer from an engineer is understanding how pieces fit together at scale._
-
-</div>
-
-### 🎯 Core Competencies
+## System Design & Architecture
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 📐 System Architecture
+### System Architecture
 
-- **Microservices Design** - Decomposing monoliths into bounded contexts
-- **Event-Driven Architecture** - Message queues, pub/sub patterns
-- **API Design** - RESTful, GraphQL, real-time WebSockets
-- **Multi-tenancy** - Shared infrastructure, isolated data
-- **Caching Strategies** - Redis, CDN, application-level
+- Microservices decomposition and bounded contexts
+- Event-driven architecture with message queues
+- RESTful APIs, GraphQL, real-time WebSockets
+- Multi-tenant infrastructure design
+- Caching strategies (Redis, CDN, application-level)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🗄️ Database Design
+### Database Design
 
-- **Schema Design** - Normalized & denormalized patterns
-- **Query Optimization** - Indexing, explain plans, N+1 prevention
-- **Data Modeling** - Relational (PostgreSQL) & Document (MongoDB)
-- **Migration Strategies** - Zero-downtime schema changes
-- **Replication & Sharding** - Horizontal scaling patterns
+- Normalized and denormalized schema patterns
+- Query optimization (indexing, N+1 prevention)
+- Relational (PostgreSQL) and Document (MongoDB) modeling
+- Zero-downtime migration strategies
+- Replication and sharding patterns
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔄 Scalability Patterns
+### Scalability Patterns
 
-- **Load Balancing** - Distribution strategies
-- **Horizontal Scaling** - Stateless services
-- **Circuit Breakers** - Fault tolerance
-- **Rate Limiting** - API protection
-- **Async Processing** - Background jobs, workers
+- Load balancing and distribution
+- Horizontal scaling with stateless services
+- Circuit breakers and fault tolerance
+- Rate limiting and API protection
+- Background jobs and worker queues
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔒 Security & Reliability
+### Security & Reliability
 
-- **Authentication** - JWT, OAuth, session management
-- **Payment Security** - PCI compliance, idempotency
-- **Data Integrity** - ACID, eventual consistency
-- **Monitoring** - Observability, alerting, logging
-- **Disaster Recovery** - Backups, failover strategies
+- Authentication (JWT, OAuth, sessions)
+- Payment security and PCI compliance
+- Data integrity (ACID, eventual consistency)
+- Observability, monitoring, and alerting
+- Disaster recovery and failover
 
 </td>
 </tr>
@@ -113,149 +100,79 @@ _What separates a developer from an engineer is understanding how pieces fit tog
 
 ---
 
-## �️ Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 [![Languages](https://skillicons.dev/icons?i=ts,js,python,php,bash&theme=dark)](https://skillicons.dev)
 
-| Language       | Experience | Use Cases                      |
-| -------------- | ---------- | ------------------------------ |
-| **TypeScript** | ⭐⭐⭐⭐⭐ | Primary - APIs, React, Node.js |
-| **JavaScript** | ⭐⭐⭐⭐⭐ | Frontend, scripting, legacy    |
-| **Python**     | ⭐⭐⭐⭐   | Automation, data processing    |
-| **PHP**        | ⭐⭐⭐⭐   | Legacy systems, WordPress      |
-| **SQL**        | ⭐⭐⭐⭐⭐ | Complex queries, optimization  |
-
-</div>
-
----
-
-<div align="center">
-
-### ⚛️ Frontend Stack
+### Frontend
 
 [![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark)](https://skillicons.dev)
 
-</div>
-
-| Technology        | Expertise                                   |
-| ----------------- | ------------------------------------------- |
-| **Next.js 14+**   | App Router, SSR/SSG, API Routes, Middleware |
-| **React 18+**     | Hooks, Context, Suspense, Server Components |
-| **TailwindCSS**   | Custom design systems, responsive layouts   |
-| **Framer Motion** | Micro-interactions, page transitions        |
-
----
-
-<div align="center">
-
-### ⚙️ Backend & APIs
+### Backend
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,fastify,rabbitmq&theme=dark)](https://skillicons.dev)
 
-</div>
+### Databases
 
-| Technology          | Expertise                                 |
-| ------------------- | ----------------------------------------- |
-| **Node.js**         | Event loop, streams, worker threads       |
-| **Express/Fastify** | REST APIs, middleware architecture        |
-| **WebSockets**      | Real-time communication, Socket.io        |
-| **RabbitMQ**        | Message queues, async processing          |
-| **Redis**           | Caching, sessions, pub/sub, rate limiting |
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase&theme=dark)](https://skillicons.dev)
 
----
-
-<div align="center">
-
-### 🗃️ Databases
-
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis&theme=dark)](https://skillicons.dev)
-
-</div>
-
-| Database       | Use Case                                             |
-| -------------- | ---------------------------------------------------- |
-| **PostgreSQL** | Transactional data, complex queries, ACID compliance |
-| **MongoDB**    | Flexible schemas, document storage, aggregations     |
-| **MySQL**      | Legacy systems, migrations                           |
-| **Supabase**   | Real-time, auth, rapid prototyping                   |
-| **Redis**      | Caching, sessions, leaderboards, queues              |
-
----
-
-<div align="center">
-
-### 🐳 DevOps & Infrastructure
+### DevOps
 
 [![DevOps](https://skillicons.dev/icons?i=docker,vercel,linux,git,github&theme=dark)](https://skillicons.dev)
 
 </div>
 
-| Tool               | Expertise                                            |
-| ------------------ | ---------------------------------------------------- |
-| **Docker**         | Containerization, docker-compose, multi-stage builds |
-| **Vercel/Railway** | Serverless deployment, edge functions                |
-| **Linux**          | Server administration, bash scripting                |
-| **Git**            | Branching strategies, conventional commits           |
-| **GitHub Actions** | CI/CD pipelines, automated testing                   |
-
----
-
 <div align="center">
 
-### 💳 Integrations & APIs
+<br/>
 
-![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=white)
-![Clip](https://img.shields.io/badge/Clip_México-00C853?style=for-the-badge&logoColor=white)
-![Uber](https://img.shields.io/badge/Uber_Eats_API-000000?style=for-the-badge&logo=uber&logoColor=white)
-![Retool](https://img.shields.io/badge/Retool-3D3D3D?style=for-the-badge&logo=retool&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=flat-square&logo=stripe&logoColor=white)
+![Clip](https://img.shields.io/badge/Clip_México-00C853?style=flat-square&logoColor=white)
+![Uber](https://img.shields.io/badge/Uber_Eats_API-000000?style=flat-square&logo=uber&logoColor=white)
+![Retool](https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 </div>
 
 ---
 
-## ⚡ Featured Projects
+## Featured Projects
 
-### 🍣 HelloSushi — Multi-Tenant Restaurant Platform
+### HelloSushi — Multi-Tenant Restaurant Platform
 
-> _Production system handling real orders and real money_
+Production system handling real orders and payments across multiple branches.
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
-**Architecture Highlights:**
+**Architecture:**
 
 ```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│   PWA App   │────▶│   API GW    │────▶│  Services   │
-│  (Next.js)  │     │  (Express)  │     │  (Workers)  │
-└─────────────┘     └─────────────┘     └─────────────┘
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-        ┌──────────┐ ┌──────────┐ ┌──────────┐
-        │ MongoDB  │ │  Redis   │ │  MySQL   │
-        │ (Orders) │ │ (Cache)  │ │ (Legacy) │
-        └──────────┘ └──────────┘ └──────────┘
+PWA (Next.js) → API Gateway (Express) → Services (Workers)
+                        │
+          ┌─────────────┼─────────────┐
+          ▼             ▼             ▼
+      MongoDB        Redis        MySQL
+      (Orders)      (Cache)      (Legacy)
 ```
 
-**Key Features:**
+**Features:**
 
-- 🏗️ Multi-tenant architecture (multiple branches)
-- ⚡ Real-time order sync < 200ms with WebSockets
-- 💳 Payment integrations: Stripe, Clip México
-- 🔄 Legacy PHP → Microservices migration
-- 📱 PWA with offline-first capabilities
+- Multi-tenant architecture for multiple restaurant branches
+- Real-time order sync under 200ms with WebSockets
+- Payment integrations: Stripe, Clip México
+- Legacy PHP to microservices migration
+- PWA with offline-first capabilities
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
-**Tech Stack:**
+**Stack:**
 
 - Next.js 14 + TypeScript
 - Node.js + Express
@@ -263,12 +180,12 @@ _What separates a developer from an engineer is understanding how pieces fit tog
 - Docker + Vercel
 - Socket.io
 
-**Metrics:**
+**Results:**
 
-- ✅ 99.9% uptime
-- ✅ Multi-branch support
-- ✅ Payment failover
-- ✅ Real production traffic
+- 99.9% uptime
+- Multi-branch support
+- Payment gateway failover
+- Production traffic handling
 
 </td>
 </tr>
@@ -276,45 +193,40 @@ _What separates a developer from an engineer is understanding how pieces fit tog
 
 ---
 
-### � Legacy Modernization Engine
+### Legacy Modernization Engine
 
-> _Transforming PHP monoliths into scalable microservices_
+Transforming 10+ year old PHP monoliths into scalable microservices using the Strangler Fig pattern.
 
 ```
 BEFORE                              AFTER
 ┌─────────────────────┐            ┌─────────────────────┐
-│                     │            │   ┌─────────────┐   │
-│   PHP Monolith      │     →      │   │ Order Svc   │   │
-│   (10+ years old)   │            │   └─────────────┘   │
-│                     │            │   ┌─────────────┐   │
-│   - Spaghetti code  │            │   │ Payment Svc │   │
-│   - Coupled DB      │            │   └─────────────┘   │
-│   - No tests        │            │   ┌─────────────┐   │
-│                     │            │   │ Sync Agent  │   │
-└─────────────────────┘            │   └─────────────┘   │
-                                   └─────────────────────┘
+│   PHP Monolith      │     →      │   Order Service     │
+│   - Coupled code    │            │   Payment Service   │
+│   - Shared DB       │            │   Sync Agent        │
+│   - No tests        │            │   Message Queues    │
+└─────────────────────┘            └─────────────────────┘
 ```
 
-**Approach:** Strangler Fig pattern with a sync agent for gradual migration without downtime.
+**Stack:** Node.js, Fastify, RabbitMQ, Docker, TypeScript
 
 ---
 
-### 🌐 MazTech Web Solutions
+### MazTech Web Solutions
 
-> _Web development agency for Mexican businesses_
+Web development agency focusing on Mexican business digitalization.
 
-- 🛒 Custom e-commerce & automation systems
-- 📦 Template marketplace (in development)
-- 🤝 Local business digitalization
+- Custom e-commerce and automation systems
+- Template marketplace (in development)
+- SaaS solutions for local businesses
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parkster127&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkster127&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=parkster127&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkster127&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9" height="160"/>
 
 <br/>
 
@@ -324,31 +236,29 @@ BEFORE                              AFTER
 
 ---
 
-## 💡 Engineering Philosophy
+## Engineering Philosophy
 
 <table>
 <tr>
 <td width="50%">
 
-### ✅ What I Do
+**What I Do**
 
-- Ship **production-ready** code, not prototypes
-- Design for **scale** from day one
-- Own my mistakes and fix them **fast**
-- Document like my future self will thank me
-- Test thoroughly, deploy confidently
-- **Understand the business**, not just the code
+- Ship production-ready code, not prototypes
+- Design for scale from day one
+- Own mistakes and fix them fast
+- Document everything thoroughly
+- Test, then deploy with confidence
 
 </td>
 <td width="50%">
 
-### ❌ What I Don't Do
+**What I Avoid**
 
 - "Works on my machine" excuses
-- N+1 queries or unoptimized code
-- Shortcuts that create tech debt
+- N+1 queries and unoptimized code
+- Shortcuts that create technical debt
 - Half-finished projects
-- Copy-paste without understanding
 - Over-engineering simple problems
 
 </td>
@@ -357,43 +267,27 @@ BEFORE                              AFTER
 
 ---
 
-## 🎮 Beyond Code
+## Beyond Code
 
-<div align="center">
-
-🎯 **League of Legends** competitive player &nbsp;•&nbsp;
-🏗️ **Minecraft** modpack architect &nbsp;•&nbsp;
-🍣 **Sushi** enthusiast & HelloSushi founder
-
-📺 **Suits & HIMYM** binge-watcher &nbsp;•&nbsp;
-🐕 Proud **Doberman** owner
-
-</div>
+League of Legends competitive player • Minecraft modpack architect • Sushi enthusiast & HelloSushi founder • Suits & HIMYM binge-watcher • Proud Doberman owner
 
 ---
 
-## 📫 Let's Build Something
+## Let's Connect
 
 <div align="center">
 
-**Looking for an engineer who:**
-
-- ✅ Understands system design, not just syntax
-- ✅ Ships production code, not prototypes
-- ✅ Takes ownership from architecture to deployment
-- ✅ Writes code that scales
+**Looking for an engineer who understands system design, ships production code, takes ownership, and writes scalable solutions?**
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_Email-martin__herrera5@hotmail.com-0078D4?style=for-the-badge)](mailto:martin_herrera5@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-parkster127-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/parkster127)
+[![Email](https://img.shields.io/badge/Email-martin__herrera5@hotmail.com-0078D4?style=for-the-badge)](mailto:martin_herrera5@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-parkster127-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/parkster127)
 
 <br/>
 
 ---
 
-**⚡ Built with dedication from Mazatlán, México ⚡**
-
-_"The best code is the code you don't have to explain."_
+**Built with dedication from Mazatlán, México**
 
 </div>
