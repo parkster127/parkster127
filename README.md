@@ -23,7 +23,7 @@ With experience optimizing fintech backends at **Yopaki** and architecting multi
 
 > _"Code is not about making things work—it's about making them work at scale."_
 
-📍 **Mazatlán, Sinaloa, México** • 📧 [Email](mailto:martin_herrera5@hotmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/parkster127)
+**Where was I born?** Mazatlán, Sinaloa, México • [Email](mailto:martin_herrera5@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/parkster127)
 
 ---
 
@@ -122,9 +122,9 @@ With experience optimizing fintech backends at **Yopaki** and architecting multi
 
 ---
 
-### Legacy Modernization Engine
+### Client Solutions
 
-Transforming 10+ year old PHP monoliths into scalable microservices using the Strangler Fig pattern.
+Transforming legacy systems into scalable architectures for real clients.
 
 ```
 BEFORE                              AFTER
@@ -165,7 +165,7 @@ BEFORE                              AFTER
 
 ## Beyond Code
 
-🎮 League of Legends tryhard • 🧱 Minecraft modpack architect • 📺 Suits & HIMYM binge-watcher • 🐕 Doberman daddy's girl (yes, I'm the girl)
+📺 Suits & HIMYM binge-watcher • 🐕 Doberman daddy's girl (yes, I'm the girl) • 💘 Adicto al amor de las mujeres
 
 ---
 
