@@ -21,9 +21,10 @@
 <img src="https://github.com/parkster127/parkster127/raw/main/assets/wordcloud.png" alt="Parks Word Cloud" width="600"/>
 
 <br/>
+<br/>
 
 <!-- The Quote -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=2000&color=FFC107&center=true&vCenter=true&width=700&lines=%22Programming+is+like+sex%3A+One+mistake+and+you+have+to+support+it+for+the+rest+of+your+life.%22" alt="Quote"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=FFC107&center=true&vCenter=true&width=800&lines=%22Programming+is+like+sex%3A+One+mistake+and+you+have+to+support+it+for+the+rest+of+your+life.%22" alt="Quote"/>
 
 </div>
 
@@ -141,59 +142,6 @@ With experience optimizing fintech backends at **Yopaki** and architecting multi
 
 ---
 
-## Featured Projects
-
-### HelloSushi — Multi-Tenant Restaurant Platform
-
-Production system handling real orders and payments across multiple branches.
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-**Architecture:**
-
-```
-PWA (Next.js) → API Gateway (Express) → Services (Workers)
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-      MongoDB        Redis        MySQL
-      (Orders)      (Cache)      (Legacy)
-```
-
-**Features:**
-
-- Multi-tenant architecture for multiple restaurant branches
-- Real-time order sync under 200ms with WebSockets
-- Payment integrations: Stripe, Clip México
-- Legacy PHP to microservices migration
-- PWA with offline-first capabilities
-
-</td>
-<td width="45%" valign="top">
-
-**Stack:**
-
-- Next.js 14 + TypeScript
-- Node.js + Express
-- MongoDB + Redis
-- Docker + Vercel
-- Socket.io
-
-**Results:**
-
-- 99.9% uptime
-- Multi-branch support
-- Payment gateway failover
-- Production traffic handling
-
-</td>
-</tr>
-</table>
-
----
-
 ### Legacy Modernization Engine
 
 Transforming 10+ year old PHP monoliths into scalable microservices using the Strangler Fig pattern.
@@ -216,15 +164,6 @@ BEFORE                              AFTER
 
 <div align="center">
 
-<!-- GitHub Stats Terminal Style -->
-
-```
-parkster127@github:~$ neofetch
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=parkster127&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkster127&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&langs_count=8" height="165"/>
-
 <br/>
 
 <!-- Contribution Snake Animation -->
@@ -240,7 +179,7 @@ parkster127@github:~$ neofetch
 
 ## Beyond Code
 
-League of Legends competitive player • Minecraft modpack architect • Sushi enthusiast & HelloSushi founder • Suits & HIMYM binge-watcher • Proud Doberman owner
+🎮 League of Legends tryhard • 🧱 Minecraft modpack architect • 📺 Suits & HIMYM binge-watcher • 🐕 Doberman daddy's girl (yes, I'm the girl)
 
 ---
 
