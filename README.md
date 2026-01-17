@@ -9,8 +9,6 @@
 </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=MARTIN+PARKS;Full-Stack+Engineer+%7C+System+Architect;Scalable+Solutions+%7C+Best+Practices;From+Mazatl%C3%A1n+to+the+World)](https://git.io/typing-svg)
-
 <br/>
 
 <a href="https://www.linkedin.com/in/parkster127" target="_blank">
@@ -114,7 +112,7 @@ With experience optimizing fintech backends at **Yopaki** and architecting multi
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastify,rabbitmq&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,rabbitmq&theme=dark)](https://skillicons.dev)
 
 ### Databases
 
