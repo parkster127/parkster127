@@ -15,6 +15,16 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=parkster127&style=for-the-badge&color=FF6B35" alt="Profile Views"/>
 
+<br/>
+
+<!-- Word Cloud -->
+<img src="https://github.com/parkster127/parkster127/raw/main/assets/wordcloud.png" alt="Parks Word Cloud" width="600"/>
+
+<br/>
+
+<!-- The Quote -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=2000&color=FFC107&center=true&vCenter=true&width=700&lines=%22Programming+is+like+sex%3A+One+mistake+and+you+have+to+support+it+for+the+rest+of+your+life.%22" alt="Quote"/>
+
 </div>
 
 ---
