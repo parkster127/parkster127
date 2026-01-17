@@ -24,7 +24,7 @@
 <br/>
 
 <!-- The Quote -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=FFC107&center=true&vCenter=true&width=800&lines=%22Programming+is+like+sex%3A+One+mistake+and+you+have+to+support+it+for+the+rest+of+your+life.%22" alt="Quote"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=FFC107&center=true&vCenter=true&width=900&lines=%22Programming+is+like+sex%3A+One+mistake+and+you+have+to+support+it+for+the+rest+of+your+life.%22" alt="Quote"/>
 
 </div>
 
@@ -183,21 +183,20 @@ BEFORE                              AFTER
 
 ---
 
-## Let's Connect
+## Reach Me
 
 <div align="center">
 
-**Looking for an engineer who understands system design, ships production code, takes ownership, and writes scalable solutions?**
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-martin__herrera5@hotmail.com-0078D4?style=for-the-badge)](mailto:martin_herrera5@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parkster127-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/parkster127)
-
-<br/>
-
----
-
-**Built with dedication from Mazatlán, México**
+<a href="mailto:martin_herrera5@hotmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/parkster127">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/parkster127">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="50"/>
+</a>
 
 </div>
