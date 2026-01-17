@@ -37,7 +37,7 @@ With experience optimizing fintech backends at **Yopaki** and architecting multi
 
 - Microservices decomposition and bounded contexts
 - Event-driven architecture with message queues
-- RESTful APIs, GraphQL, real-time WebSockets
+- RESTful APIs, real-time WebSockets
 - Multi-tenant infrastructure design
 - Caching strategies (Redis, CDN, application-level)
 
@@ -140,7 +140,7 @@ BEFORE                              AFTER
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=900&lines=%22Programming+is+like+sex%3A+One+mistake+and+you+have+to+support+it+for+the+rest+of+your+life.%22" alt="Quote"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=16&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=900&lines=%22Programming+is+like+sex%3A+One+mistake+and+you+have+to+support+it+for+the+rest+of+your+life.%22" alt="Quote"/>
 
 </div>
 
@@ -165,7 +165,7 @@ BEFORE                              AFTER
 
 ## Beyond Code
 
-📺 Suits & HIMYM binge-watcher • 🐕 Doberman daddy's girl (yes, I'm the girl) • 💘 Adicto al amor de las mujeres
+📺 Suits & HIMYM binge-watcher • 🐕 Doberman owner (she owns me) • 💘 Addicted to women's love
 
 ---
 
