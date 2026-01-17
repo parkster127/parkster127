@@ -1,13 +1,6 @@
 <div align="center">
 
-<!-- Header con imagen de fondo y texto superpuesto -->
-<table>
-<tr>
-<td>
 <img src="./assets/banners/Whisk_64d6ecec4d4289db22d456252b7e4300dr.jpeg" alt="Mazatlán Sunset" width="900"/>
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -118,9 +111,9 @@ With experience optimizing fintech backends at **Yopaki** and architecting multi
 
 [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase&theme=dark)](https://skillicons.dev)
 
-### DevOps
+### DevOps & CI/CD
 
-[![DevOps](https://skillicons.dev/icons?i=docker,vercel,linux,git,github&theme=dark)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=docker,vercel,linux,git,github,githubactions&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -209,59 +202,28 @@ BEFORE                              AFTER
 
 ---
 
-### MazTech Web Solutions
-
-Web development agency focusing on Mexican business digitalization.
-
-- Custom e-commerce and automation systems
-- Template marketplace (in development)
-- SaaS solutions for local businesses
-
----
-
-## GitHub Stats
+## Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parkster127&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkster127&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9" height="160"/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parkster127&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parkster127&theme=dark&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://git.io/streak-stats)
+<!-- Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=parkster127&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkster127&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=c9d1d9&langs_count=8" height="180"/>
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=parkster127&theme=dark&hide_border=true&background=0D1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=c9d1d9&currStreakNum=ffffff&dates=6e7681" width="49%"/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=parkster127&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="49%"/>
 
 </div>
-
----
-
-## Engineering Philosophy
-
-<table>
-<tr>
-<td width="50%">
-
-**What I Do**
-
-- Ship production-ready code, not prototypes
-- Design for scale from day one
-- Own mistakes and fix them fast
-- Document everything thoroughly
-- Test, then deploy with confidence
-
-</td>
-<td width="50%">
-
-**What I Avoid**
-
-- "Works on my machine" excuses
-- N+1 queries and unoptimized code
-- Shortcuts that create technical debt
-- Half-finished projects
-- Over-engineering simple problems
-
-</td>
-</tr>
-</table>
 
 ---
 
