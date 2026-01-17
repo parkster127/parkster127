@@ -18,22 +18,56 @@ With experience optimizing fintech backends at **Yopaki** and architecting multi
 
 ### **Where was I born?**
 
-In the beautiful **Mazatlán** city — _Donde se rompen las olas_
+In the beautiful **Mazatlán** city — _Donde se rompen las olas_ 🌊
 
 ---
 
 ## **What I Do Best**
 
-<div align="center">
+<table>
+<tr>
+<td width="25%" align="center">
 
-| **System Architecture** | **Database Engineering** |  **Scalability**   | **Security & Reliability** |
-| :---------------------: | :----------------------: | :----------------: | :------------------------: |
-|      Microservices      |      Schema design       | Horizontal scaling |        JWT & OAuth         |
-|      Event-driven       |    Query optimization    |  Circuit breakers  |      Payment security      |
-|       WebSockets        |   PostgreSQL, MongoDB    |   Worker queues    |       Observability        |
-|      Multi-tenant       | Zero-downtime migrations |   Rate limiting    |     Disaster recovery      |
+**System Architecture**
 
-</div>
+- Microservices
+- Event-driven
+- WebSockets
+- Multi-tenant
+
+</td>
+<td width="25%" align="center">
+
+**Database Engineering**
+
+- Schema design
+- Query optimization
+- PostgreSQL, MongoDB
+- Zero-downtime migrations
+
+</td>
+<td width="25%" align="center">
+
+**Scalability**
+
+- Horizontal scaling
+- Circuit breakers
+- Worker queues
+- Rate limiting
+
+</td>
+<td width="25%" align="center">
+
+**Security & Reliability**
+
+- JWT & OAuth
+- Payment security
+- Observability
+- Disaster recovery
+
+</td>
+</tr>
+</table>
 
 ---
 
