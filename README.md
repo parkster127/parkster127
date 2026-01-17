@@ -20,27 +20,18 @@ With experience optimizing fintech backends at **Yopaki** and architecting multi
 
 In the beautiful **Mazatlán** city — _Donde se rompen las olas_
 
-[Email](mailto:martin_herrera5@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/parkster127)
-
 ---
 
 ## **What I Do Best**
 
 <div align="center">
 
-|     **System Architecture**      |      **Database Engineering**      |
-| :------------------------------: | :--------------------------------: |
-| Microservices & bounded contexts | Schema design & query optimization |
-| Event-driven with message queues |     PostgreSQL, MongoDB, Redis     |
-|       Real-time WebSockets       |      Zero-downtime migrations      |
-|   Multi-tenant infrastructure    |     N+1 prevention & indexing      |
-
-|          **Scalability**           |   **Security & Reliability**   |
-| :--------------------------------: | :----------------------------: |
-|    Horizontal scaling patterns     | JWT, OAuth, session management |
-| Circuit breakers & fault tolerance |     Payment security (PCI)     |
-|  Background jobs & worker queues   |   Observability & monitoring   |
-|   Rate limiting & API protection   |       Disaster recovery        |
+| **System Architecture** | **Database Engineering** |  **Scalability**   | **Security & Reliability** |
+| :---------------------: | :----------------------: | :----------------: | :------------------------: |
+|      Microservices      |      Schema design       | Horizontal scaling |        JWT & OAuth         |
+|      Event-driven       |    Query optimization    |  Circuit breakers  |      Payment security      |
+|       WebSockets        |   PostgreSQL, MongoDB    |   Worker queues    |       Observability        |
+|      Multi-tenant       | Zero-downtime migrations |   Rate limiting    |     Disaster recovery      |
 
 </div>
 
