@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/banners/Whisk_64d6ecec4d4289db22d456252b7e4300dr.jpeg" alt="Mazatlán Sunset" width="900"/>
+# MARTIN PARKS
 
-<br/>
+**Full-Stack Engineer | System Architect**
 
 <a href="https://www.linkedin.com/in/parkster127" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -206,22 +206,23 @@ BEFORE                              AFTER
 
 <div align="center">
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parkster127&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&area=true&hide_border=true" width="95%"/>
+<!-- GitHub Stats Terminal Style -->
+
+```
+parkster127@github:~$ neofetch
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=parkster127&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkster127&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&langs_count=8" height="165"/>
 
 <br/>
 
-<!-- Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=parkster127&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkster127&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=c9d1d9&langs_count=8" height="180"/>
-
-<br/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=parkster127&theme=dark&hide_border=true&background=0D1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=c9d1d9&currStreakNum=ffffff&dates=6e7681" width="49%"/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=parkster127&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="49%"/>
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parkster127/parkster127/snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parkster127/parkster127/snake/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/parkster127/parkster127/snake/github-snake-dark.svg" />
+</picture>
 
 </div>
 
