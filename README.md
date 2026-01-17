@@ -4,27 +4,7 @@
 
 **Full-Stack Engineer | System Architect**
 
-<a href="https://www.linkedin.com/in/parkster127" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:martin_herrera5@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/parkster127">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 <img src="https://komarev.com/ghpvc/?username=parkster127&style=for-the-badge&color=FF6B35" alt="Profile Views"/>
-
-<br/>
-
-<!-- Word Cloud -->
-<img src="https://github.com/parkster127/parkster127/raw/main/assets/wordcloud.png" alt="Parks Word Cloud" width="600"/>
-
-<br/>
-<br/>
-
-<!-- The Quote -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=FFC107&center=true&vCenter=true&width=900&lines=%22Programming+is+like+sex%3A+One+mistake+and+you+have+to+support+it+for+the+rest+of+your+life.%22" alt="Quote"/>
 
 </div>
 
@@ -43,7 +23,7 @@ With experience optimizing fintech backends at **Yopaki** and architecting multi
 
 > _"Code is not about making things work—it's about making them work at scale."_
 
-**Location:** Mazatlán, Sinaloa, México
+📍 **Mazatlán, Sinaloa, México** • 📧 [Email](mailto:martin_herrera5@hotmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/parkster127)
 
 ---
 
@@ -157,6 +137,12 @@ BEFORE                              AFTER
 ```
 
 **Stack:** Node.js, Fastify, RabbitMQ, Docker, TypeScript
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=900&lines=%22Programming+is+like+sex%3A+One+mistake+and+you+have+to+support+it+for+the+rest+of+your+life.%22" alt="Quote"/>
+
+</div>
 
 ---
 
