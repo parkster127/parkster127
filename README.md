@@ -18,7 +18,7 @@ With experience optimizing fintech backends at **Yopaki** and architecting multi
 
 ### **Where was I born?**
 
-En la bellísima ciudad de **Mazatlán** — _Donde se rompen las olas_ 🌊
+In the beautiful **Mazatlán** city — _Donde se rompen las olas_
 
 [Email](mailto:martin_herrera5@hotmail.com) • [LinkedIn](https://www.linkedin.com/in/parkster127)
 
@@ -28,14 +28,14 @@ En la bellísima ciudad de **Mazatlán** — _Donde se rompen las olas_ 🌊
 
 <div align="center">
 
-|    🏗️ **System Architecture**    |    🗄️ **Database Engineering**     |
+|     **System Architecture**      |      **Database Engineering**      |
 | :------------------------------: | :--------------------------------: |
 | Microservices & bounded contexts | Schema design & query optimization |
 | Event-driven with message queues |     PostgreSQL, MongoDB, Redis     |
 |       Real-time WebSockets       |      Zero-downtime migrations      |
 |   Multi-tenant infrastructure    |     N+1 prevention & indexing      |
 
-|         ⚡ **Scalability**         | 🔐 **Security & Reliability**  |
+|          **Scalability**           |   **Security & Reliability**   |
 | :--------------------------------: | :----------------------------: |
 |    Horizontal scaling patterns     | JWT, OAuth, session management |
 | Circuit breakers & fault tolerance |     Payment security (PCI)     |
