@@ -243,9 +243,3 @@ Every request gets a unique correlation ID (timestamp-UUID format). Propagated t
 </picture>
 
 </div>
-
----
-
-## **Beyond Code**
-
-Suits & HIMYM binge-watcher / Doberman owner (she owns me) / Gothic girls lover
