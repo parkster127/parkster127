@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/gh-banner.png" alt="Martin Acuña Herrera — Full-Stack Engineer | System Architect" width="100%" />
+<img src="assets/gh-banner.png" alt="Martin Acuña Herrera — Full-Stack Engineer | System Architect" width="80%" />
 
 <br/>
 
