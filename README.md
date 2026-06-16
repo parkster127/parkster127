@@ -1,8 +1,8 @@
 <div align="center">
 
-# Martin
+<img src="assets/gh-banner.png" alt="Martin Acuña Herrera — Full-Stack Engineer | System Architect" width="100%" />
 
-**Full-Stack Engineer | System Architect**
+<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=14&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=700&lines=%22Programming+is+like+sex%3A+One+mistake+and+you+have+to+support+it+for+the+rest+of+your+life.%22" alt="Quote"/>
 
@@ -109,7 +109,7 @@ In the beautiful **Mazatlan** city — _Donde se rompen las olas_ 🌊
 
 Real problems solved for real clients.
 
-### **HelloSushi -- Multi-Branch Restaurant Platform**
+### **HelloSushi — Multi-Branch Restaurant Platform**
 
 **Challenge:** A restaurant chain running a 10+ year old Windows POS system with MySQL. No online ordering, no multi-branch support, no payment gateway. Orders were phone-only and manually entered into the legacy system.
 
@@ -154,6 +154,9 @@ PWA Customer --> Express API --> MongoDB
 
 Patterns and implementations from production systems.
 
+<details>
+<summary><b>View engineering patterns & production implementations</b></summary>
+
 ### **Contract-First Validation with Zod**
 
 Every API route validates input through Zod schemas via a `validateRequest()` middleware. The schema both validates and strips unknown fields -- preventing silent data loss when new model fields are added without updating the route schema. Validation errors return structured field-level feedback.
@@ -164,7 +167,7 @@ Route -> validateRequest(ZodSchema) -> handler receives typed, sanitized body
 
 ### **Accent-Insensitive Search for Spanish Text**
 
-Custom `buildAccentInsensitiveRegex()` utility that maps accented characters (a, e, i, o, u, n) to character classes (`[aáàäâã]`) for MongoDB queries. Searches for "atun" correctly match "Atun", "camaron" matches "Camaron", and "nino" matches "Nino". Required for a Mexican restaurant with Spanish-language product names.
+Custom `buildAccentInsensitiveRegex()` utility that maps accented characters (a, e, i, o, u, n) to character classes (`[aáàäâã]`) for MongoDB queries. Searches for "atun" correctly match "Atun", "camaron" matches "Camaron", and "nino" matches "Niño". Required for a Mexican restaurant with Spanish-language product names.
 
 ### **Dual PUT/PATCH Route Registration**
 
@@ -229,6 +232,8 @@ The client sends product selections; the server returns the final price. Promoti
 ### **Correlation IDs for Distributed Tracing**
 
 Every request gets a unique correlation ID (timestamp-UUID format). Propagated through middleware, services, logs, and error responses. Enables end-to-end tracing across the API, worker, and legacy sync agent.
+
+</details>
 
 ---
 
