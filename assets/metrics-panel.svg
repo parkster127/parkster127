@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="svg-title svg-desc">
+  <title id="svg-title">Year in review — 351 merged pull requests and 2,153 unique commits</title>
+  <desc id="svg-desc">A verified snapshot of 351 user-authored merged pull requests and 2,153 unique non-merge commits across eight Hello Sushi repositories and four current product codebases, from January 1 through September 25, 2026.</desc>
+
+<style>
+  @keyframes drift { 0%,100% { transform: translate3d(0,0,0); opacity:.35 } 50% { transform: translate3d(10px,-8px,0); opacity:.9 } }
+  @keyframes beacon { 0%,100% { opacity:.25; transform:scale(.96) } 50% { opacity:1; transform:scale(1.04) } }
+  @keyframes sweep { from { stroke-dashoffset: 460 } to { stroke-dashoffset: 0 } }
+  @keyframes rise { 0%,100% { transform:translateY(0); opacity:.35 } 50% { transform:translateY(-5px); opacity:1 } }
+  .drift { animation: drift 9s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+  .beacon { animation: beacon 4.5s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+  .sweep { stroke-dasharray:460; animation:sweep 8s linear infinite; }
+  .rise { animation:rise 5s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+  @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation:none !important; } }
+</style>
+
+
+<defs>
+  <linearGradient id="metrics-wash" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#06111f"/>
+    <stop offset=".62" stop-color="#08192b"/>
+    <stop offset="1" stop-color="#0d2a47"/>
+  </linearGradient>
+  <linearGradient id="metrics-cyan" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#20b9ff" stop-opacity="0"/>
+    <stop offset=".48" stop-color="#20b9ff"/>
+    <stop offset="1" stop-color="#9ce8ff"/>
+  </linearGradient>
+  <linearGradient id="metrics-fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#04101e" stop-opacity=".98"/>
+    <stop offset=".52" stop-color="#04101e" stop-opacity=".76"/>
+    <stop offset="1" stop-color="#04101e" stop-opacity=".08"/>
+  </linearGradient>
+  <linearGradient id="metrics-card" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#122f4c" stop-opacity=".92"/>
+    <stop offset="1" stop-color="#071524" stop-opacity=".92"/>
+  </linearGradient>
+  <filter id="metrics-glow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="metrics-grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#8cdcff" stroke-opacity=".09" stroke-width="1"/>
+  </pattern>
+</defs>
+  <rect width="1200" height="360" rx="18" fill="url(#metrics-wash)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#2a5879"/>
+  <g transform="translate(50 48)">
+    <text x="0" y="0" font-family="Avenir Next, Segoe UI, sans-serif" font-size="11" font-weight="800" letter-spacing="2.8" fill="#6bd8ff">YEAR IN REVIEW / GITHUB-VERIFIED SNAPSHOT</text>
+    <text x="0" y="42" font-family="Avenir Next, Segoe UI, sans-serif" font-size="29" font-weight="800" fill="#f0f8ff">Evidence before ego.</text>
+    <text x="0" y="70" font-family="Avenir Next, Segoe UI, sans-serif" font-size="14" fill="#9fc4d7">A calm, auditable panel for the final PR and contribution export.</text>
+  </g>
+  <g transform="translate(50 154)">
+
+    <g transform="translate(0 0)">
+      <rect width="244" height="130" rx="13" fill="#0a2036" stroke="#244f70"/>
+      <text x="22" y="35" font-family="Avenir Next, Segoe UI, sans-serif" font-size="11" font-weight="800" letter-spacing="1.7" fill="#8ddfff">MERGED PRS</text>
+      <text x="22" y="88" font-family="Avenir Next, Segoe UI, sans-serif" font-size="36" font-weight="800" fill="#eaf7ff">351</text>
+      <text x="22" y="111" font-family="Avenir Next, Segoe UI, sans-serif" font-size="11" fill="#7596aa">AUTHORED BY PARKSTER127</text>
+    </g>
+    <g transform="translate(276 0)">
+      <rect width="244" height="130" rx="13" fill="#0a2036" stroke="#244f70"/>
+      <text x="22" y="35" font-family="Avenir Next, Segoe UI, sans-serif" font-size="11" font-weight="800" letter-spacing="1.7" fill="#8ddfff">UNIQUE COMMITS</text>
+      <text x="22" y="88" font-family="Avenir Next, Segoe UI, sans-serif" font-size="36" font-weight="800" fill="#eaf7ff">2,153</text>
+      <text x="22" y="111" font-family="Avenir Next, Segoe UI, sans-serif" font-size="11" fill="#7596aa">NON-MERGE DEFAULT-BRANCH SHAS</text>
+    </g>
+    <g transform="translate(552 0)">
+      <rect width="244" height="130" rx="13" fill="#0a2036" stroke="#244f70"/>
+      <text x="22" y="35" font-family="Avenir Next, Segoe UI, sans-serif" font-size="11" font-weight="800" letter-spacing="1.7" fill="#8ddfff">REPOSITORIES</text>
+      <text x="22" y="88" font-family="Avenir Next, Segoe UI, sans-serif" font-size="36" font-weight="800" fill="#eaf7ff">8</text>
+      <text x="22" y="111" font-family="Avenir Next, Segoe UI, sans-serif" font-size="11" fill="#7596aa">HELLO SUSHI SCOPE</text>
+    </g>
+    <g transform="translate(828 0)">
+      <rect width="244" height="130" rx="13" fill="#0a2036" stroke="#244f70"/>
+      <text x="22" y="35" font-family="Avenir Next, Segoe UI, sans-serif" font-size="11" font-weight="800" letter-spacing="1.7" fill="#8ddfff">CURRENT CODEBASES</text>
+      <text x="22" y="88" font-family="Avenir Next, Segoe UI, sans-serif" font-size="36" font-weight="800" fill="#eaf7ff">4</text>
+      <text x="22" y="111" font-family="Avenir Next, Segoe UI, sans-serif" font-size="11" fill="#7596aa">PRODUCT REPOSITORIES</text>
+    </g>
+  </g>
+  <text x="50" y="330" font-family="Avenir Next, Segoe UI, sans-serif" font-size="11" font-weight="700" letter-spacing="1.15" fill="#7899ad">UTC WINDOW 2026-01-01 → 2026-09-25T19:30:22Z · RELEASE/SYNC PRS INCLUDED · 434 MERGE COMMITS EXCLUDED</text>
+</svg>

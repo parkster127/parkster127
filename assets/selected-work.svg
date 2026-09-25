@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="svg-title svg-desc">
+  <title id="svg-title">Selected work contribution map</title>
+  <desc id="svg-desc">A visual grouping of architecture, integration, and delivery contributions.</desc>
+
+<style>
+  @keyframes drift { 0%,100% { transform: translate3d(0,0,0); opacity:.35 } 50% { transform: translate3d(10px,-8px,0); opacity:.9 } }
+  @keyframes beacon { 0%,100% { opacity:.25; transform:scale(.96) } 50% { opacity:1; transform:scale(1.04) } }
+  @keyframes sweep { from { stroke-dashoffset: 460 } to { stroke-dashoffset: 0 } }
+  @keyframes rise { 0%,100% { transform:translateY(0); opacity:.35 } 50% { transform:translateY(-5px); opacity:1 } }
+  .drift { animation: drift 9s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+  .beacon { animation: beacon 4.5s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+  .sweep { stroke-dasharray:460; animation:sweep 8s linear infinite; }
+  .rise { animation:rise 5s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+  @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation:none !important; } }
+</style>
+
+
+<defs>
+  <linearGradient id="selected-work-wash" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#06111f"/>
+    <stop offset=".62" stop-color="#08192b"/>
+    <stop offset="1" stop-color="#0d2a47"/>
+  </linearGradient>
+  <linearGradient id="selected-work-cyan" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#20b9ff" stop-opacity="0"/>
+    <stop offset=".48" stop-color="#20b9ff"/>
+    <stop offset="1" stop-color="#9ce8ff"/>
+  </linearGradient>
+  <linearGradient id="selected-work-fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#04101e" stop-opacity=".98"/>
+    <stop offset=".52" stop-color="#04101e" stop-opacity=".76"/>
+    <stop offset="1" stop-color="#04101e" stop-opacity=".08"/>
+  </linearGradient>
+  <linearGradient id="selected-work-card" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#122f4c" stop-opacity=".92"/>
+    <stop offset="1" stop-color="#071524" stop-opacity=".92"/>
+  </linearGradient>
+  <filter id="selected-work-glow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="selected-work-grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#8cdcff" stroke-opacity=".09" stroke-width="1"/>
+  </pattern>
+</defs>
+  <rect width="1200" height="440" rx="18" fill="url(#selected-work-wash)"/>
+  <rect x="1" y="1" width="1198" height="438" rx="17" fill="none" stroke="#2a5879"/>
+  <g transform="translate(50 48)">
+    <text x="0" y="0" font-family="Avenir Next, Segoe UI, sans-serif" font-size="11" font-weight="800" letter-spacing="2.6" fill="#6bd8ff">SELECTED WORK / CONTRIBUTION MAP</text>
+    <text x="0" y="43" font-family="Avenir Next, Segoe UI, sans-serif" font-size="30" font-weight="800" fill="#f0f8ff">The work behind the screenshots.</text>
+  </g>
+  <g transform="translate(50 142)">
+    <g>
+      <rect width="340" height="230" rx="15" fill="#0a2036" stroke="#244f70"/>
+      <rect x="24" y="24" width="74" height="5" rx="2.5" fill="#20b9ff"/>
+      <text x="24" y="67" font-family="Avenir Next, Segoe UI, sans-serif" font-size="20" font-weight="800" fill="#eaf7ff">Hello Sushi</text>
+      <text x="24" y="100" font-family="Avenir Next, Segoe UI, sans-serif" font-size="14" fill="#a5c5d7">Restaurant systems</text>
+      <text x="24" y="139" font-family="Avenir Next, Segoe UI, sans-serif" font-size="13" fill="#8eaec0">Architecture contribution</text>
+      <text x="24" y="166" font-family="Avenir Next, Segoe UI, sans-serif" font-size="13" fill="#8eaec0">Integration boundaries</text>
+      <text x="24" y="193" font-family="Avenir Next, Segoe UI, sans-serif" font-size="13" fill="#8eaec0">Real-time operations</text>
+    </g>
+    <g transform="translate(380 0)">
+      <rect width="340" height="230" rx="15" fill="#0a2036" stroke="#244f70"/>
+      <rect x="24" y="24" width="74" height="5" rx="2.5" fill="#65d9ff"/>
+      <text x="24" y="67" font-family="Avenir Next, Segoe UI, sans-serif" font-size="20" font-weight="800" fill="#eaf7ff">Integrations</text>
+      <text x="24" y="100" font-family="Avenir Next, Segoe UI, sans-serif" font-size="14" fill="#a5c5d7">Boundaries with receipts</text>
+      <text x="24" y="139" font-family="Avenir Next, Segoe UI, sans-serif" font-size="13" fill="#8eaec0">Payments and webhooks</text>
+      <text x="24" y="166" font-family="Avenir Next, Segoe UI, sans-serif" font-size="13" fill="#8eaec0">State transitions</text>
+      <text x="24" y="193" font-family="Avenir Next, Segoe UI, sans-serif" font-size="13" fill="#8eaec0">Failure-aware handoffs</text>
+    </g>
+    <g transform="translate(760 0)">
+      <rect width="340" height="230" rx="15" fill="#0a2036" stroke="#244f70"/>
+      <rect x="24" y="24" width="74" height="5" rx="2.5" fill="#a8eaff"/>
+      <text x="24" y="67" font-family="Avenir Next, Segoe UI, sans-serif" font-size="20" font-weight="800" fill="#eaf7ff">Delivery</text>
+      <text x="24" y="100" font-family="Avenir Next, Segoe UI, sans-serif" font-size="14" fill="#a5c5d7">Reviewable systems</text>
+      <text x="24" y="139" font-family="Avenir Next, Segoe UI, sans-serif" font-size="13" fill="#8eaec0">Scoped implementation</text>
+      <text x="24" y="166" font-family="Avenir Next, Segoe UI, sans-serif" font-size="13" fill="#8eaec0">Evidence-led verification</text>
+      <text x="24" y="193" font-family="Avenir Next, Segoe UI, sans-serif" font-size="13" fill="#8eaec0">Docs that explain intent</text>
+    </g>
+  </g>
+</svg>
