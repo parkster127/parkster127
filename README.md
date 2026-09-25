@@ -1,250 +1,125 @@
 <div align="center">
 
-<img src="assets/gh-banner.png" alt="Martin Acuña Herrera — Full-Stack Engineer | System Architect" width="80%" />
+<picture>
+  <source media="(max-width: 620px)" srcset="assets/hero-mobile.svg" />
+  <img src="assets/hero-desktop.svg" alt="Martin Acuña Herrera — Software Engineer and Systems Architect" width="100%" />
+</picture>
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=14&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=700&lines=%22Programming+is+like+sex%3A+One+mistake+and+you+have+to+support+it+for+the+rest+of+your+life.%22" alt="Quote"/>
+<p>
+  <strong>Architecture · Payments · Real-time systems</strong><br />
+  I build restaurant commerce and operations systems around checkout, live orders, and branch workflows.
+</p>
 
 </div>
 
 ---
 
-## **About Me**
+## What I build
 
-**Software Engineer** specializing in **scalable architectures** and **production-grade systems**. I design and build solutions that handle real traffic, real users, and real money.
+I am a **software engineer and project architect** focused on payments, real-time order state, branch-scoped operations, external integrations, and recovery paths.
 
-With experience architecting multi-tenant restaurant platforms with live POS sync, payment gateway integrations, and real-time order management, I focus on building systems that **don't break at 3am**.
+## Tech Stack
 
-### **Where was I born?**
+| Area | Technologies |
+| --- | --- |
+| Frontend | React 19 · Vite · TanStack Query · Zustand |
+| Backend | TypeScript · Node.js · Express · Zod |
+| Data | PostgreSQL · Drizzle · Redis |
+| Messaging & real-time | RabbitMQ · Socket.IO |
+| Integrations | Clip · Uber Eats APIs |
 
-In the beautiful **Mazatlan** city — _Donde se rompen las olas_ 🌊
+**Engineering practices:** idempotency · reconciliation · webhooks · branch isolation
 
----
+The current table reflects verified Hello Sushi usage. The visual rows below are my broader personal toolkit across projects and generations; they are not a claim that every item runs in Hello Sushi.
 
-## **What I Do Best**
+### Personal toolkit
 
-<table>
-<tr>
-<td width="25%" align="center">
+| Area | Technologies |
+| --- | --- |
+| Languages | <img src="assets/tech/languages.svg" alt="Languages: TypeScript, JavaScript, Python, PHP, Bash" height="48" /> |
+| Frontend | <img src="assets/tech/frontend.svg" alt="Frontend: Next.js, React, Tailwind CSS, HTML, CSS" height="48" /> |
+| Backend | <img src="assets/tech/backend.svg" alt="Backend: Node.js, Express, RabbitMQ" height="48" /> |
+| Databases | <img src="assets/tech/databases.svg" alt="Databases: MongoDB, PostgreSQL, MySQL, Redis, Supabase" height="48" /> |
+| DevOps & CI/CD | <img src="assets/tech/devops.svg" alt="DevOps and CI/CD: Docker, Vercel, Linux, Git, GitHub, GitHub Actions" height="48" /> |
 
-**System Architecture**
+**Integrations across projects:** Stripe · Clip · Uber Eats APIs
 
-- Multi-tenant SaaS
-- Event-driven systems
-- Real-time WebSocket
-- Legacy system bridging
+**Project-specific:**
 
-</td>
-<td width="25%" align="center">
+- **GestureCam:** Python · MediaPipe · OpenCV
+- **iris-harness:** TypeScript · Effect · Engram *(in development)*
 
-**Backend Engineering**
-
-- Express + MongoDB
-- Zod contract validation
-- RabbitMQ workers
-- Circuit breakers
-
-</td>
-<td width="25%" align="center">
-
-**Payment & Integration**
-
-- Stripe, Clip (MX)
-- Uber Eats API
-- POS MySQL sync
-- Webhook signatures
-
-</td>
-<td width="25%" align="center">
-
-**Security & Reliability**
-
-- RBAC permissions
-- Fraud detection
-- Rate limiting (Redis)
-- Correlation tracing
-
-</td>
-</tr>
-</table>
-
----
-
-## **Tech Stack**
+## Featured work
 
 <div align="center">
-
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=ts,js,python,php,bash&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark)](https://skillicons.dev)
-
-**Backend**
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,rabbitmq&theme=dark)](https://skillicons.dev)
-
-**Databases**
-
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase&theme=dark)](https://skillicons.dev)
-
-**DevOps & CI/CD**
-
-[![DevOps](https://skillicons.dev/icons?i=docker,vercel,linux,git,github,githubactions&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=white)
-![Clip](https://img.shields.io/badge/Clip_Mexico-00C853?style=for-the-badge&logoColor=white)
-![Uber](https://img.shields.io/badge/Uber_Eats_API-000000?style=for-the-badge&logo=uber&logoColor=white)
-
+  <img src="assets/hello-sushi-contribution.svg" alt="Hello Sushi — project architecture, payments, real-time order state, and operational handoffs" width="100%" />
 </div>
 
----
+**Role:** project architect and full-stack contributor on a private client system. The detailed contribution summary is below; private implementation details, customer data, and private PR links stay private.
 
-## **Success Stories**
+<picture>
+  <source media="(max-width: 620px)" srcset="assets/metrics-panel-mobile.svg" />
+  <img src="assets/metrics-panel.svg" alt="Verified Hello Sushi contribution snapshot: 351 merged pull requests, 2,153 unique non-merge commits, 8 repositories, and 4 current product codebases, January 1 through September 25, 2026" width="100%" />
+</picture>
 
-Real problems solved for real clients.
+<sub>Snapshot: 351 merged PR records and 2,153 unique non-merge commits authored by <code>parkster127</code> across 8 Hello Sushi repositories and their default branches, from 2026-01-01 UTC through <code>2026-09-25T19:30:22Z</code>. The PR count includes release and synchronization records; the commit count excludes 434 merge commits. These are repository records, not unique features or deployments. <a href="METHODOLOGY.md">Read the counting method</a>.</sub>
 
-### **HelloSushi — Multi-Branch Restaurant Platform**
+## Projects
 
-**Challenge:** A restaurant chain running a 10+ year old Windows POS system with MySQL. No online ordering, no multi-branch support, no payment gateway. Orders were phone-only and manually entered into the legacy system.
+### Hello Sushi — restaurant operations platform
 
-**Solution:** Built a complete three-tier platform from scratch:
+<p align="center">
+  <img src="assets/hello-sushi-iphone.png" alt="Hello Sushi ordering app mockup based on the supplied product screenshot" width="320" />
+</p>
 
-- **Express API** (`hello-api`) -- 30+ route modules, MongoDB with Mongoose, RabbitMQ worker for async order processing, WebSocket real-time updates, Redis for rate limiting and pub/sub
-- **React PWA** (`hello-app`) -- Mobile-first ordering app with Vite, service worker, cart validation, Clip payment SDK integration, address autocomplete with fuzzy matching
-- **Next.js CMS** (`saas-monorepo/apps/cms`) -- Admin panel with App Router, TanStack Query for data fetching, Zustand for state, shadcn/ui components, granular RBAC
-- **Legacy Sync Agent** (`legacy-sync-agent`) -- Bridges MongoDB orders to the old MySQL POS in real-time, mapping modern product structures to legacy schema
+<p align="center"><a href="https://app.hellosushimex.com">Open the app URL</a></p>
 
-**Architecture:**
+Device mockup based on the supplied screenshot; the location label was adjusted for presentation. <a href="assets/hello-sushi-app-screenshot.png">View the unmodified original app screenshot</a>. This is not a literal device capture. The URL is supplied for context; this profile does not claim authenticated or operational access.
 
-```
-PWA Customer --> Express API --> MongoDB
-                   |    ^          |
-                   v    |          v
-              RabbitMQ   |    Legacy Sync Agent --> MySQL POS
-                   |     |          |
-                   v     |          v
-             Order Worker   |    Kitchen Display
-                   |        |
-                   v        v
-              WebSocket (Socket.IO + Redis Pub/Sub)
-                   |
-                   v
-              CMS Admin Panel
-```
+**My contribution:**
 
-**Results:**
-- Multi-branch restaurant chain support (branch-scoped orders, delivery zones, operating hours)
-- Real-time POS sync -- orders appear in the legacy kitchen display within seconds
-- Payment processing via Clip (transparent checkout, 3DS, webhook verification)
-- Uber Eats integration -- incoming orders from the marketplace are normalized and synced to the same POS
-- Fraud detection system with Redis-backed velocity checks, IP fanout tracking, and Telegram alerts
-- Server-side pricing engine -- all prices and promotions calculated server-side, client never controls totals
+- Project architecture for checkout, live order state, and branch operations.
+- Clip checkout with idempotency, 3DS API integration, and provider-facing state boundaries.
+- PinPad attempt, inbox, reconciliation, and outbox paths for uncertain payment outcomes.
+- Socket.IO + Redis branch rooms, RabbitMQ intake, Uber Eats normalization, and CEDIS/inventory workflows.
 
-**Stack:** Node.js TypeScript Express MongoDB RabbitMQ Redis Socket.IO Next.js React Vite Cloudinary Twilio
+### [GestureCam](https://github.com/parkster127/gesturecam)
 
----
+Python, MediaPipe, OpenCV, and virtual-camera workflows.
 
-## **Engineering Highlights**
+### [iris-harness](https://github.com/parkster127/iris-harness)
 
-Patterns and implementations from production systems.
+TypeScript, Effect, Engram tooling, and an evolving harness-independent agent platform.
 
 <details>
-<summary><b>View engineering patterns & production implementations</b></summary>
+<summary><strong>Code volume context — accumulated PR diff volume</strong></summary>
 
-### **Contract-First Validation with Zod**
+| Measure | Snapshot |
+| --- | ---: |
+| Additions across PR diffs | 1,197,465 |
+| Deletions across PR diffs | 234,884 |
+| Accumulated PR diff volume | 1,432,349 |
 
-Every API route validates input through Zod schemas via a `validateRequest()` middleware. The schema both validates and strips unknown fields -- preventing silent data loss when new model fields are added without updating the route schema. Validation errors return structured field-level feedback.
+These are accumulated pull-request diff fields across the scoped repositories. They include regenerated, repeated, imported, and release changes; they are **not unique handwritten lines of code** and are provided as context rather than a quality or impact claim.
 
-```
-Route -> validateRequest(ZodSchema) -> handler receives typed, sanitized body
-```
+</details>
 
-### **Accent-Insensitive Search for Spanish Text**
+## How I approach systems
 
-Custom `buildAccentInsensitiveRegex()` utility that maps accented characters (a, e, i, o, u, n) to character classes (`[aáàäâã]`) for MongoDB queries. Searches for "atun" correctly match "Atun", "camaron" matches "Camaron", and "nino" matches "Niño". Required for a Mexican restaurant with Spanish-language product names.
+<details>
+<summary><strong>Four questions I bring to a production boundary</strong></summary>
 
-### **Dual PUT/PATCH Route Registration**
-
-A recurring production bug: the CMS sends `PUT` for updates, but Express routes only registered `PATCH`. Result: silent 404s. The fix is a deliberate pattern where every update route registers both methods pointing to the same handler and middleware chain. Documented as a project rule after causing 4+ production incidents.
-
-```typescript
-router.patch('/:id', authenticate, requirePermission('module.update'), validateRequest(Schema), handler);
-router.put('/:id', authenticate, requirePermission('module.update'), validateRequest(Schema), handler);
-```
-
-### **Multi-Tenant Branch Isolation**
-
-Each branch has its own operating hours, delivery zones, payment credentials, and Uber Eats store mapping. Orders are branch-scoped -- the API enforces that users can only access orders for their assigned branches unless they have global access. Delivery zones use fuzzy Levenshtein matching for colony names with source priority tracking (CMS > legacy > historical import).
-
-### **POS Legacy Sync Architecture**
-
-The `legacy-sync-agent` is a standalone TypeScript service that:
-1. Consumes RabbitMQ messages when a new order is created or updated in MongoDB
-2. Maps modern order items (variants, option groups, extras) to legacy MySQL product IDs using a configurable mapping table
-3. Inserts into the old Windows POS MySQL database so the kitchen display works without changes
-4. Handles recipe removals (e.g., "no onion") as separate POS line items
-5. Includes a claim-based lease system for multi-instance coordination
-6. Sends Telegram notifications on sync failures
-
-### **PWA with Offline-First Capabilities**
-
-The customer-facing app is a React PWA built with Vite and `vite-plugin-pwa`. Features service worker registration with update prompts, mobile-first atomic design (atoms/molecules/organisms/components), 26 custom hooks for cart validation, delivery zone detection, Clip SDK integration, FCM push notifications, haptic feedback, and address autocomplete.
-
-### **RBAC with Granular Permissions**
-
-6 roles (developer, admin, manager, cashier, call_center, viewer) mapped to 30+ granular permissions. The `authenticate` middleware verifies JWTs, resolves role permissions, and attaches them to the request. The `requirePermission()` factory middleware checks access on every route. The CMS mirrors this with client-side `access-control.ts` that determines navigation visibility and route protection.
-
-### **Fraud Detection Pipeline**
-
-Orders pass through a Redis-backed fraud detection middleware before creation:
-- **R1:** Customer velocity -- max orders per customer in a rolling window
-- **R2:** IP fanout -- max different customers from the same IP
-- **R3:** High-value orders from unverified phones
-- **R4:** Previously blocked customers
-
-Configurable modes (mark, block, both). All events logged to MongoDB for audit. Telegram alerts sent in real-time. Gracefully degrades when Redis is unavailable (never blocks legitimate orders due to infrastructure failure).
-
-### **Circuit Breaker for External Services**
-
-Custom `CircuitBreaker` class with CLOSED/OPEN/HALF_OPEN state machine. Pre-configured instances for Clip payments (strict: 3 failures threshold) and Uber Eats (5 failures, 30s timeout). Prevents cascading failures when payment gateways or delivery platforms are down.
-
-### **Real-Time Order Updates via WebSocket + Redis Pub/Sub**
-
-Socket.IO with Redis adapter for multi-instance scaling. An EventBus (Observer pattern) decouples order lifecycle events from WebSocket broadcasting. The CMS receives live order status updates without polling. Branch-scoped rooms ensure each branch only sees its own orders.
-
-### **Server-Side Pricing Engine**
-
-All prices calculated server-side to prevent client-side manipulation. The pricing engine handles:
-- Base prices with variant support (protein-based pricing)
-- Promo $99 ceiling at item level
-- Cart-level NxM promotions (3x2, 4x3) with best-deal selection
-- Delivery channel pricing (dine_in vs to_go vs delivery)
-- Price history snapshots for audit
-
-The client sends product selections; the server returns the final price. Promotions are never accepted from client input.
-
-### **Correlation IDs for Distributed Tracing**
-
-Every request gets a unique correlation ID (timestamp-UUID format). Propagated through middleware, services, logs, and error responses. Enables end-to-end tracing across the API, worker, and legacy sync agent.
+1. **What is the source of truth?** A request, a provider response, a persisted attempt, and a client event are not interchangeable.
+2. **What is the failure state?** Decline, cancellation, provider failure, timeout, and unknown outcome need distinct recovery paths.
+3. **Who can see or change it?** Branch-scoped authorization is part of the domain, not a UI detail.
+4. **Can the team explain it later?** Correlation, durable records, and readable transitions make operational work reviewable.
 
 </details>
 
 ---
 
-## **Activity**
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parkster127/parkster127/snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parkster127/parkster127/snake/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/parkster127/parkster127/snake/github-snake-dark.svg" />
-</picture>
+**Build the system. Make the boundary visible.**
 
 </div>
